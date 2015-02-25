@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mortage Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="purchase_price">Purchase Price</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="interest_rate">Interest Rate %</string>
+    <string name="custom_year">Custom Year</string>
+    <string name="year_10">10</string>
+    <string name="year_20">20</string>
+    <string name="year_30">30</string>
+    <string name="year_custom">Custom</string>
+
+</resources>
